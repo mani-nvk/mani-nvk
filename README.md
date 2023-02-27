@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mani-nvk
 - 👀 I’m interested in SaaS, IoT, Smart Home
-- 🌱 I’m currently learning to be a good CSM
+- 🌱 I’m currently learning to build up a good & scalable CSM team structure
 - 📫 How to reach me: manuel.novak@toolsense.io
 
 <!---
